@@ -1,0 +1,23 @@
+{
+    "welcome_message": "مرحبا بك في موقع الدكتور ليجون",
+    "intro_message": "هنا نتبادل المعرفة وندحض الشبهات.",
+    "intro_antishubuhat_title": "دحض البدع",
+    "intro_antishubuhat_author": "دكتور ليجون",
+    "loading": "جاري التحميل...",
+    "begin": "ابدأ",
+    "audio_not_supported": "متصفحك لا يدعم عنصر الصوت.",
+    "appbar_home": "الرئيسية",
+    "appbar_refutation": "الشبهات",
+    "appbar_downloads": "التنزيلات",
+    "appbar_sharh": "الشروحات",
+    "appbar_contact": "التواصل",
+    "appbar_language": "English",
+    "appbar_links":"الروابط",
+    
+
+    "streamline_knowledge_title": "",
+    "streamline_knowledge_details": "",
+    
+    "streamline_understanding_title": "",
+    "streamline_understanding_details": ""
+}
